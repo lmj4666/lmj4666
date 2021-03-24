@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lmj4666
 - 👀 I’m interested in deep-learning and computer architecture.
 - 🌱 I’m currently learning open hardware source, NVDLA.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 lmj4666/lmj4666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
